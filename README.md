@@ -15,7 +15,7 @@ This project focuses on deriving induction motor performance parameters from man
 ## Parameter Derivation
 
 ### Manufacturer Datasheet
-![Motor Datasheet](INSERT_IMAGE_LINK_HERE)
+![Motor Datasheet](Induction_motor_datasheet.png)
 
 Motor parameters were derived from the manufacturer’s datasheet and used to build the simulation model.
 
@@ -35,7 +35,7 @@ These tests were used to validate the derived parameters.
 ## Model Validation
 
 ### Dynamic Performance
-![Motor Performance](INSERT_IMAGE_LINK_HERE)
+![Motor Performance](Induction_motor_perfomance.png)
 
 This plot shows:
 - Motor speed vs time  
@@ -52,7 +52,7 @@ The simulation validates:
 ## Low-Frequency Operation Analysis
 
 ### VVVF Control at 5 Hz
-![Low Frequency Operation](INSERT_IMAGE_LINK_HERE)
+![Low Frequency Operation](Low_frequency_operation.png)
 
 Simulation of no-load and full-load operation at 5 Hz using VVVF control to maintain constant flux.
 
