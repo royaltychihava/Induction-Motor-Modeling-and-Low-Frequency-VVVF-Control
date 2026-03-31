@@ -1,4 +1,4 @@
-# Induction Motor Modeling and Low-Frequency VVVF Control Analysis
+# Induction Motor Modelling and Low-Frequency VVVF Control Analysis
 
 ## Overview
 This project focuses on deriving induction motor performance parameters from manufacturer datasheet values and validating them through simulation. It also investigates motor behavior at low frequencies using Variable Voltage Variable Frequency (VVVF) control.
